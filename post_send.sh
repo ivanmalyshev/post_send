@@ -7,5 +7,6 @@ while [[ i -le $a ]]; do
 cat message | mail -s "Theme Welcome" $1
 i=$(($i+1))
 echo "_____________________________________________________"
+###ghbdtn
 done
 
